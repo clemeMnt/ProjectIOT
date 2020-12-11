@@ -14,7 +14,7 @@
 <nav class="navbar navbar-dark bg-dark">
     <a class="navbar-brand d-flex align-items-center" href="#">
         <img src="assets/img/logo.png"  class="d-inline-block align-top" id="logo" alt="">
-         <span>DASHBOARD</span>
+        <span>DASHBOARD</span>
     </a>
 </nav>
 
@@ -71,7 +71,7 @@
                 <td><?=$row['idealTemp']?>°C</td>
             </tr>
 
-        <?php
+            <?php
             $quantityTot += $row['quantity'];
         endforeach;
 
@@ -168,7 +168,7 @@
                 let ctx = document.getElementById('graphCanvas').getContext('2d');
                 window.myLine = new Chart(ctx, configTemp);
 
-               document.getElementById('temp').innerHTML = temp[temp.length - 1]+"°C";
+                document.getElementById('temp').innerHTML = temp[temp.length - 1]+"°C";
 
             });
 
@@ -245,7 +245,7 @@
     }
     $.post("stock.php")
     {
-            let obj = JSON.parse(data);
+        let obj = JSON.parse(data);
 
     }
 </script>

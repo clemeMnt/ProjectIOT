@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab596c27-3685-4672-88d8-e248fe24f932" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/img/98001720_1941470205994927_4538944412192866304_n.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/autre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/competences.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/competences.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/compétences.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/contact.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/illustration-about-me.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/personnage.ai" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/profil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lW1TPYjjbrrILMfLsGT9rppvV5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab596c27-3685-4672-88d8-e248fe24f932" name="Default Changelist" comment="" />
+      <created>1607698042660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607698042660</updated>
+      <workItem from="1607698044242" duration="612000" />
+      <workItem from="1607698710318" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607698210945">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="708" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1607698210945" />
+    <state x="794" y="448" key="NewPhpFileDialog" timestamp="1607698552274">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="794" y="448" key="NewPhpFileDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1607698552274" />
+    <state x="697" y="165" key="SettingsEditor" timestamp="1607698388912">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="697" y="165" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1607698388912" />
+  </component>
+</project>
